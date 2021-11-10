@@ -1,0 +1,8 @@
+com/chris/distanceconverter/BuildConfig.java
+ com.chris.distanceconverter.BuildConfig
+com/chris/distanceconverter/MainActivity.java
+ com.chris.distanceconverter.MainActivity
+ com.chris.distanceconverter.MainActivity$1
+com/chris/distanceconverter/Distances.java
+ com.chris.distanceconverter.Distances
+ com.chris.distanceconverter.Distances$1
